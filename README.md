@@ -1,3 +1,5 @@
+Video: https://www.youtube.com/watch?v=2ZOnA19sDpM&feature=youtu.be&ab_channel=DataTalksClub
+
 # Deployment Dockerized ML Models in AWS Sagemaker
 
 
